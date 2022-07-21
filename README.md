@@ -1,6 +1,9 @@
 # intern_project2
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/66006470/180175707-80919800-00a8-4eb0-9a4f-6f37c11fcf90.png)
+
+![image](https://user-images.githubusercontent.com/66006470/180175890-9ecc34a6-0046-458c-847e-90f1dc3cb7b0.png)
+
 
 ## Getting Started
 
